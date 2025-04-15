@@ -10,3 +10,5 @@
 
 
 - Release criada a partir da branch dev, após revisão do PR feature/config-ci
+
+alteração critica... criando hotfix 
