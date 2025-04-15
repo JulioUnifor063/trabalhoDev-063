@@ -10,3 +10,9 @@
 
 
 - Release criada a partir da branch dev, após revisão do PR feature/config-ci
+
+
+
+
+## [v0.1.1] - 2025-04-15
+release para main da hotfix
